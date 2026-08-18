@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-xvtxk5.salamcuanwin.xyz/sitemap.xml
